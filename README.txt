@@ -1,5 +1,13 @@
 README.txt
 
+
+
+NOTE: The "RPG_Sim.csproj" and "RPG_Sim.sln" is outside the folder RPG_Sim. Di ko po alam if magrurun siya pag wala yan kaya nilagay ko na rin po sa repository. Kasama yung 3images which is dapat nasa Assets folder outside of RPG_Sim folder. In my pc po, Projects/RPG_SIM/RPG_Sim po yung Path. Yung Assets, "RPG_Sim.csproj" and "RPG_Sim.sln" is nasa RPG_SIM po. Then the rest of the .cs files po is nasa loob ng RPG_sim. I hope naintindihan niyo po explanation ko T_T
+
+
+
+
+
 == RPG Battle Simulator (Simplified) ==
 
 This is a fun C# Windows Forms game that lets you simulate battles with characters inspired by classmates! It's built using important coding ideas called Object-Oriented Programming (OOP).
